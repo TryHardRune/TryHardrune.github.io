@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "About Us"
 date:   2016-12-27 13:44:05 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+If you're here you've most likely been given a link or told to go here by Rune or Drake. If not... why are you here? This is a page we have mainly made just to flex coding skills and practice when we feel like it. You'll mostlikely be offended here so grab a seat, salt, and a napkin for tears.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+A link to our social media can be found at the bottom of the <a href="https://tryhardrune.github.io/">Home page.</a>
 
-Jekyll also offers powerful support for code snippets:
+Things we do:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+Various coding, simple things, just above your avarage skript kiddo.
+Football in freetime, sometmes hardcore waterbottle flipping 
+Sciencey shit
+Being a meme lord.
+Defenetly NOT hacking things, whats a hack? How do you do a hack?
+Vidieo games and the occational phone game whilst shitting. 
 {% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
